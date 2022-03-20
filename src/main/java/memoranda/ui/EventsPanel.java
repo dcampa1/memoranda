@@ -403,7 +403,7 @@ public class EventsPanel extends JPanel {
                 eventsTable.getSelectedRow(),
                 EventsTable.EVENT);
 			msg = Local.getString("Remove event") + "\n'" 
-				+ ev.getText() + "'\n" + Local.getString("Are you sure?");
+				+ ev.getText() + "'\n" + Local.getString("Sabes que estas haciendo?");
 		}
 
         int n =
