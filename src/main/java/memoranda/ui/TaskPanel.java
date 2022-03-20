@@ -316,7 +316,7 @@ public class TaskPanel extends JPanel {
         tasksToolBar.add(historyForwardB, null);
         tasksToolBar.addSeparator(new Dimension(8, 24));
 
-        tasksToolBar.add(newTaskB, null);
+        //tasksToolBar.add(newTaskB, null);
         tasksToolBar.add(subTaskB, null);
         tasksToolBar.add(removeTaskB, null);
         tasksToolBar.addSeparator(new Dimension(8, 24));
